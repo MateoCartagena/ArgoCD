@@ -2,4 +2,4 @@
 
 ## jIPASziFXgxnRwLo
 
-[Ver el documento PDF](./documento.pdf)
+[Ver el documento PDF](./ISWZ3104-202520 – Consigna Proyecto Integrador (1).pdf)
