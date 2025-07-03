@@ -2,4 +2,7 @@
 
 ## jIPASziFXgxnRwLo
 
-[Ver el documento PDF](./ISWZ3104-202520 – Consigna Proyecto Integrador (1).pdf)
+[Consigna Proyecto Integrador](./ISWZ3104-202520_Consigna_Proyecto_Integrador_1.pdf)
+
+## Documentación
+- [Consigna Proyecto Integrador](./ISWZ3104-202520_Consigna_Proyecto_Integrador_1.pdf): Documento con las instrucciones del proyecto StreamEdu.
